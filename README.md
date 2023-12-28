@@ -1,4 +1,4 @@
-# WE ARE NOT REALLY DIFFERENT
+# WE'RE NOT REALLY DIFFERENT
 
 ## Description
 Similar to WRNS, this game is meant to be played with one single computer shared by a group of diverse culture individuals. Designed to help people coming from different backgrounds to understand each other better.
